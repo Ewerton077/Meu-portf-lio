@@ -137,6 +137,10 @@ h1 {
     cursor: pointer;
 }
 
+.projetos-card img {
+    width: 600px;
+}
+
 .projetos-card:hover {
     box-shadow: 0 10px 20px rgba(79, 70, 299, 0.2);
     transform: translateY(-10px) scale(1.03);
